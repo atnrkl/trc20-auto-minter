@@ -12,6 +12,7 @@ enter inscription data such as
 Run following commands
 
 `npm i`
+</br>
 `node minter.js`
 
 ## You can edit frequency here

@@ -18,4 +18,5 @@ Run following commands
 ## You can edit frequency here
 
 Set default to 3 seconds
-setInterval(main, 3000);
+</br>
+`setInterval(main, 3000);`

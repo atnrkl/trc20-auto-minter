@@ -6,6 +6,7 @@ paste your private key to
 `const privateKey = "<here>";`
 
 enter inscription data such as
+</br>
 `const memo = 'data:,{"p":"trc-20","op":"mint","tick":"pepe","amt":"1000"}';`
 
 Run following commands
